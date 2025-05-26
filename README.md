@@ -1,6 +1,5 @@
 ## Oii! 👋
 
 <img    alingn= 'right'
-        src= 'https://github.com/user-attachments/assets/69e7e9c5-2700-41b6-b1ad-cd9265c9febe'
-        width='200px' >
-
+        src= 'https://media.giphy.com/media/HxvLYBmBvO9BJeNip5/giphy.gif?cid=ecf05e477iax4r79dek1m9fir93czw9yb5sz41kzk02ojb3p&ep=v1_gifs_search&rid=giphy.gif&ct=g'
+        width= '200px' >
